@@ -1,11 +1,10 @@
-.logo-nasa-container{
-    width: 8%;
+.logo-nasa-container {
+    width: 10%;
     padding: 1%;
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
-.img-logo-nasa{
+.img-logo-nasa {
     width: 100%;
 }

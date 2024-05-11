@@ -23,3 +23,21 @@
 .footer_container a:hover {
     color: rgb(24, 98, 207);
 }
+
+@media screen and (min-width: 481px) and (max-width: 680px) {
+    .p_footer {
+        font-size: 1.2rem;
+    }
+    .footer_container a {
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .p_footer {
+        font-size: 1rem;
+    }
+    .footer_container a {
+        font-size: 1rem;
+    }
+}

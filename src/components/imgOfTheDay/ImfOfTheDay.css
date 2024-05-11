@@ -35,3 +35,27 @@
 .p_date {
     font-size: 1.5rem;
 }
+
+@media screen and (min-width: 481px) and (max-width: 680px) {
+    .title_image_day {
+        font-size: 2rem;
+    }
+    .p_explanation_image {
+        font-size: 1.2rem;
+    }
+    .p_date {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .title_image_day {
+        font-size: 1.5rem;
+    }
+    .p_explanation_image {
+        font-size: 1rem;
+    }
+    .p_date {
+        font-size: 0.8rem;
+    }
+}
