@@ -1,4 +1,3 @@
-import React from 'react';
 import { useQuery } from '@tanstack/react-query';
 import './ImfOfTheDay.css';
 import CircularProgress from '@mui/material/CircularProgress';

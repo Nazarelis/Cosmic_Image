@@ -21,7 +21,7 @@
 .title_image_day {
     display: flex;
     justify-content: center;
-    font-size: 2rem;
+    font-size: 2.5rem;
 }
 .image_of_the_day {
     width: 30%;

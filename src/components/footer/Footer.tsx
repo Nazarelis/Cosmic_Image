@@ -5,12 +5,12 @@ function Footer() {
         <div className="footer_container">
             <div className="p_footer">
                 <p>
-                    Hecho por{' '}
+                    Hecho por {' '}
                     <a
                         href="https://www.linkedin.com/in/anabel-ojeda/"
                         target="_blank"
                     >
-                        Anabel ojeda
+                        Anabel Ojeda
                     </a>
                 </p>
             </div>
