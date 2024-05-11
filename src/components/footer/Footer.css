@@ -1,0 +1,25 @@
+.footer_container {
+    background-color: rgb(33, 32, 32);
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+}
+.footer_container a {
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 1.5rem;
+}
+.p_footer {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    color: aliceblue;
+    font-size: 1.5rem;
+}
+
+.footer_container a:hover {
+    color: rgb(24, 98, 207);
+}

@@ -1,10 +1,9 @@
 .logo-nasa-container{
-    width: 20%;
-    padding: 5%;
+    width: 8%;
+    padding: 1%;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(33, 32, 32);
 
 }
 .img-logo-nasa{
